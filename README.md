@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Dart , Flutter**
 
-- 📫 How to reach me **aravindmangattu38@gmial.com**
+- 📫 How to reach me **aravindmangattu38@gmail.com**
 
 - ⚡ Fun fact **I think I am very trust worthy**
 
